@@ -1,4 +1,4 @@
-# CueでOpenAAPIを定義するサンプル
+# CueでOpenAPIを定義するサンプル
 
 cueからyamlの生成方法
 ```bash
